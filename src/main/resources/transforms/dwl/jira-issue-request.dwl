@@ -15,7 +15,7 @@ output application/json
        "priority": {
        "id": payload.priority default "1"
        },
-       "customfield_10027":payload.sfdcCaseId
+       "customfield_10028":payload.sfdcCaseId
        
        
    }
